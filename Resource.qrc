@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/Sound">
+        <file>SFX/movement.wav</file>
+        <file>SFX/damage.wav</file>
+        <file>SFX/newfloor.wav</file>
+        <file>Music/gameover.mp3</file>
+        <file>SFX/victory.mp3</file>
+        <file>SFX/blockedmovement.wav</file>
+        <file>Music/menu.mp3</file>
+        <file>SFX/hitenemy.wav</file>
+        <file>SFX/criticalhit.wav</file>
+        <file>SFX/tiedamage.wav</file>
+        <file>Music/clearfloorsvictory.mp3</file>
+        <file>Music/battle.mp3</file>
+        <file>Music/overworld.mp3</file>
+        <file>SFX/standingbattle.wav</file>
+        <file>SFX/enemycrit.mp3</file>
+        <file>SFX/battleenemydeath.mp3</file>
+        <file>SFX/hitbutton.wav</file>
+        <file>SFX/menubutton.wav</file>
+        <file>SFX/reallylowhealth.mp3</file>
+        <file>SFX/lowhealth.mp3</file>
+        <file>SFX/battleuserdeath.mp3</file>
+        <file>Music/creditsmusic.mp3</file>
+        <file>SFX/bustedenemy.mp3</file>
+        <file>SFX/busteduser.mp3</file>
+    </qresource>
+</RCC>

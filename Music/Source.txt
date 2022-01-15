@@ -1,0 +1,34 @@
+Music
+------------------------------
+menu: https://www.youtube.com/watch?v=Fa_9fh_vML0&l
+	8 Bit Hero!
+	by HeatleyBros
+
+credits: https://www.youtube.com/watch?v=mRN_T6JkH-c
+	Night Shade
+	by Adhesive Wombat
+
+overworld: http://teknoaxe.com/Link_Code_2.php?q=265
+	Mighty Eight Bit Ranger 
+	by TeknoAXE
+
+battle: https://www.youtube.com/watch?v=NzFKyZc_va4
+	Boss Battle
+	by Adam Haynes
+
+clear all floors: https://www.youtube.com/watch?v=TNYTFOiNO4s
+	The Heroine's Theme
+	by Adam Haynes
+
+
+SFX
+-------------------------------
+game over: https://www.youtube.com/watch?v=bPIyOaSwFos
+	Royalty Free 8 bit death sound effect
+	by Ayy Lmao
+
+victory: https://www.youtube.com/watch?v=vw9VG2AcKTE
+	8 Bit Victory Sound
+	by Sound Smack
+	
+All other SFX based on Universal Sound FX by Imphenzia (I modified some of them)
